@@ -1,5 +1,5 @@
 {
-  "name": "ls",
+  "name": "ola-simon01",
   "version": "1.0.10",
   "description": "> TODO: description",
   "author": "condition01 <brunofc11@gmail.com>",
@@ -23,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/Condition01/learning_lerna/issues"
   },
-  "gitHead": "5c35b1e622bf153727fee6dda0487441ddd49bf9"
+  "gitHead": "57095aa20696c8ec89bf785ab188598fdd554b7d"
 }
