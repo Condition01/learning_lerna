@@ -1,6 +1,6 @@
 {
   "name": "my-project01",
-  "version": "1.0.5",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,5 @@
   },
   "author": "",
   "license": "ISC",
-  "gitHead": "ff2973c6840f97d13c58bbe7f9906335f23a141f"
+  "gitHead": "c7b12c230c00ea6975a874b84144fdd3ba6d9438"
 }
